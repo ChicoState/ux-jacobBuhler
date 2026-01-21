@@ -1,1 +1,1 @@
-# ___'s UX Journal
+# Jacob Buhler's UX Journal

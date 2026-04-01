@@ -1,3 +1,8 @@
+---
+layout: default
+title: Why I Couldn't Track My Online Order
+---
+
 # Why I Couldn’t Track My Online Order Until It Arrived
 I recently placed an online order and wanted to track when it would arrive. My goal was to use the tracking number provided with my order to see the shipping progress and know when to expect it.
 After placing the order, I received a confirmation email that included a tracking number. I assumed I could just use that number right away to see where my package was. However, when I tried to track it, I got a message saying the tracking number could not be found in the system.

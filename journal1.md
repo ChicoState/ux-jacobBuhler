@@ -1,7 +1,3 @@
----
-layout: default
-title: Why I Couldn't Track My Online Order
----
 
 # Why I Couldn’t Track My Online Order Until It Arrived
 I recently placed an online order and wanted to track when it would arrive. My goal was to use the tracking number provided with my order to see the shipping progress and know when to expect it.

@@ -16,7 +16,7 @@ This created what's called a "mental model mismatch" . My mental model of how th
 I expected to enter my credentials and then login. What actually happened was I entered my credentials, there was some type of error, and then 
 was stuck at a dead end.
 
-![Tassel login error](assets/tassel-error.png)
+![Tassel login error](assets/IMG_7511.jpeg)
 
 ## Discovery and the Workaround
 
@@ -25,13 +25,13 @@ website, I went to the main Chico State website and looked for a link to Tassel 
 a link to Tassel buried in their main site. It was the logical place to look for student resources. I clicked the link and it took me to what looked 
 like the exact same login page. Same design, same form fields, same everything. So I used the same credentials and just like that I was in.
 
-![Chico website](assets/chico-website.png)
+![Chico website](assets/IMG_7509.jpeg)
 
 I was immediately confused. Why did it work this time? I used the exact same login credentials. The form looked identical. But somehow, coming through 
 the Chico website link made all the difference. This is really strange from a user perspective because there's no indication that there are two different 
 ways to access Tassel, or that one of them doesn't work.
 
-![Successful Tassel login](assets/tassel-success.png)
+![Successful Tassel login](assets/IMG_7508.jpeg)
 
 Once I logged in I could see the ceremony information for my graduation, exactly what I needed in the first place. But getting here required discovering a 
 workaround that shouldn't have been necessary.

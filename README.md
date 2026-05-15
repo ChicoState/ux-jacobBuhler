@@ -4,3 +4,4 @@ My name is Jacob Buhler and this is my final semester at Chico State. I like to 
 
 ## Journal Entries
 - [Why I couldn't track my online order](journal1.html)
+- [Tassel Login Issue - When the Direct Route Doesn't Work](./journal02.md)
